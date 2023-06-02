@@ -6,6 +6,7 @@ Blog simples desenvolvido em meus estudos com Ruby on Rails
 
 * Ruby on Rails
 * Bootstrap
+* Sqlite3
 
 # TEMPLATE
 
